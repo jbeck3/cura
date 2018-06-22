@@ -1,0 +1,24 @@
+[MainThread] UM.Qt.QtApplication.__init__ [61]: Adding QT5 plugin path: C:\Program Files\Ultimaker Cura 3.3\PyQt5\plugins
+[MainThread] UM.Qt.QtApplication.__init__ [71]: Adding QT5 plugin path: C:\Program Files\Ultimaker Cura 3.3\PyQt5\plugins
+[MainThread] UM.Resources.__initializeStoragePaths [353]: Initializing storage paths
+[MainThread] UM.Resources.__initializeStoragePaths [364]: Config storage path is C:\Users\jpbec\AppData\Roaming\cura\3.3
+[MainThread] UM.Resources.__initializeStoragePaths [372]: Data storage path is C:\Users\jpbec\AppData\Roaming\cura\3.3
+[MainThread] UM.Resources.__initializeStoragePaths [384]: Cache storage path is C:\Users\jpbec\AppData\Local\cura\3.3\cache
+[MainThread] UM.View.GL.OpenGLContext.detectBestOpenGLVersion [103]: Trying OpenGL context 4.1...
+[MainThread] UM.View.GL.OpenGLContext.detectBestOpenGLVersion [113]: Yay, we got at least OpenGL 4.1 core: 4.1 Core profile
+[MainThread] UM.Qt.QtApplication.__init__ [88]: Detected most suitable OpenGL context version: 4.1 Core profile
+[MainThread] UM.Qt.QtApplication.__init__ [104]: Command line arguments: {'file': ['C:/Users/jpbec/AppData/Local/Temp/Neutron/08ac9513-5194-463d-bec9-0c8e83abfb42.stl'], 'headless': False, 'debug': False, 'disable-textures': False, 'single_instance': False, 'qmljsdebugger': None, 'trigger_early_crash': False, 'external-backend': False}
+[MainThread] UM.PluginRegistry.initializeBeforePluginsAreLoaded [79]: Loading plugin configuration file 'C:\Users\jpbec\AppData\Roaming\cura\3.3\plugins.json'
+[MainThread] UM.Preferences.getValue [91]: Tried to get the value of non-existing setting general/disabled_plugins.
+[MainThread] UM.Preferences.getValue [91]: Tried to get the value of non-existing setting general/plugins_to_remove.
+[MainThread] UM.Preferences.setValue [78]: Tried to set the value of non-existing setting general/plugins_to_remove.
+[MainThread] UM.PluginRegistry._savePluginData [122]: Saving plugin data to file 'C:\Users\jpbec\AppData\Roaming\cura\3.3\plugins.json'
+[MainThread] UM.PluginRegistry._savePluginData [122]: Saving plugin data to file 'C:\Users\jpbec\AppData\Roaming\cura\3.3\plugins.json'
+[MainThread] UM.PluginRegistry._savePluginData [122]: Saving plugin data to file 'C:\Users\jpbec\AppData\Roaming\cura\3.3\plugins.json'
+[MainThread] UM.PluginRegistry.loadPlugin [404]: Loaded plugin 3MFReader
+[MainThread] UM.PluginRegistry._savePluginData [122]: Saving plugin data to file 'C:\Users\jpbec\AppData\Roaming\cura\3.3\plugins.json'
+[MainThread] UM.PluginRegistry.loadPlugin [404]: Loaded plugin 3MFWriter
+[MainThread] UM.PluginRegistry._savePluginData [122]: Saving plugin data to file 'C:\Users\jpbec\AppData\Roaming\cura\3.3\plugins.json'
+[MainThread] UM.PluginRegistry.loadPlugin [404]: Loaded plugin AutoSave
+[MainThread] UM.PluginRegistry._savePluginData [122]: Saving plugin data to file 'C:\Users\jpbec\AppData\Roaming\cura\3.3\plugins.json'
+[MainThread] UM.PluginRegistry.loadPlugin [404]: Loaded plugin ChangeLogPlugin
